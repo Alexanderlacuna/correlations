@@ -1,2 +1,14 @@
 /this is an analysis for correlation step by step
 
+initial design was to submit to the loading page
+
+
+
+/try to investigate wanted and wanted_inputs
+
+
+/loading page
+
+what happens filters what is wanted and not needed from the submitted form data
+create datasets using create_datasets
+fetches genofile samplelist
