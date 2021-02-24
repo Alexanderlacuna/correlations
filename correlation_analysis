@@ -12,3 +12,29 @@ initial design was to submit to the loading page
 what happens filters what is wanted and not needed from the submitted form data
 create datasets using create_datasets
 fetches genofile samplelist
+
+/passed to show correlation object
+
+
+     return value "start_vars": {
+        "n_samples": 71,
+        "wanted_inputs": "n_samples"
+    }
+
+
+create data
+
+currently what is need in the correlation object
+
+{
+        "corr_return_results": 100,
+        "corr_sample_method": "pearson",
+        "corr_type": "sample",
+        "dataset": "Temp",
+        "group": "G1",
+        "corr_dataset":"D1",
+        "n_samples": 71,
+        "trait_id": "1444666_at",
+        "wanted_inputs": "corr_dataset,n_samples,corr_type,corr_sample_method,corr_return_results,trait_id,group,dataset"
+    }
+}
